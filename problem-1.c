@@ -6,7 +6,7 @@ int sub(int a,int b){
 int main(void){
     int a,b;
 
-    printf("Kindly Enter value of a and b to sud them : ");
+    printf("Kindly Enter value of a and b to substract them : ");
     scanf("%d %d",&a,&b);
 
     printf("substraction of %d and %d is : %d\n",a,b,sub(a,b));
