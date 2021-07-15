@@ -1,4 +1,4 @@
-# Game - A - Thon 
+# Game - A - Thon : Task-2
 
 ## Name : khushbu rathi
 
